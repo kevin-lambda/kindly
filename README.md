@@ -3,5 +3,5 @@
 
 This is my library of kindly helper functions which includes:
 
-- sum
-- difference
+- findMaxInArrayOfObjects
+- findMinInArrayOfObjects
