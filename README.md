@@ -5,3 +5,5 @@ This is my library of kindly helper functions which includes:
 
 - findMaxInArrayOfObjects
 - findMinInArrayOfObjects
+
+<!-- npm publish --access=public -->
