@@ -1,4 +1,12 @@
 {
   "name": "@kevin-lambda/kindly",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "Helper functions",
+  "license": "MIT",
+  "repository": "kevin-lambda/kindly",
+  "main": "index.js",
+  "keywords": [
+    "kindly",
+    "npm"
+  ]
 }
